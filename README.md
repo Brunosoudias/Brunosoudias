@@ -1,0 +1,5 @@
+--> Olá, eu sou o @brunosoudias.
+--> Estou interessado em aprender e senvolver projetos para ter experiência.
+--> Atualemten estou aprendendo Javascript.
+--> Estou a poruando colaborar em projetos HTML5 e CSS3.
+--> Ja tenho curso Python.
