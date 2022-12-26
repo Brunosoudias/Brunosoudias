@@ -1,5 +1,1 @@
---> Olá, eu sou o @brunosoudias.
---> Estou interessado em aprender e senvolver projetos para ter experiência.
---> Atualemten estou aprendendo Javascript.
---> Estou a poruando colaborar em projetos HTML5 e CSS3.
---> Ja tenho curso Python.
+Olá, eu sou o Brunuo Sousa, estou interessado em aprender e senvolver projetos para ter experiência. Atualemten estou aprendendo React.js Estou a procuando colaborar em projetos HTML5 e CSS3, Javascript.
