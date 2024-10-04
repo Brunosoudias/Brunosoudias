@@ -47,6 +47,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/brunosoudias/brunosoudias/output/snake.svg" alt="Snake animation" />
 
 ###
