@@ -1,20 +1,22 @@
 <h1 align="center">Olá 👋, eu sou Bruno Dias</h1>
 
-<h3 align="center">Desenvolvedor Back-end | Java • Spring Boot • NestJS</h3>
+<h3 align="center">
+  Desenvolvedor Back-end | Java • Spring Boot • NestJS
+</h3>
 
 ---
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunosoudias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunosoudias&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosoudias&layout=compact&langs_count=7&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosoudias&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
 
 </div>
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
 💻 Desenvolvedor focado em Back-end e desenvolvimento web
 
@@ -30,7 +32,7 @@ Me tornar um desenvolvedor Back-end Pleno especializado em aplicações escaláv
 
 ---
 
-## 🛠️ Tecnologias
+# 🛠️ Tecnologias
 
 <div align="center">
 
@@ -79,25 +81,28 @@ Me tornar um desenvolvedor Back-end Pleno especializado em aplicações escaláv
 
 ---
 
-## 📌 Projetos em destaque
+# 📌 Projetos em destaque
 
-🚀 Plataforma de locação de materiais para festas  
-💳 Sistema de pagamentos com integração de APIs  
-📦 APIs REST utilizando NestJS e Spring Boot  
-☁️ Aplicações Dockerizadas para deploy em cloud  
+🚀 Plataforma de locação de materiais para festas
+
+💳 Sistema de pagamentos com integração de APIs
+
+📦 APIs REST utilizando NestJS e Spring Boot
+
+☁️ Aplicações Dockerizadas para deploy em cloud
 
 ---
 
-## 📫 Contato
+# 📫 Contato
 
 <div align="center">
 
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:seuemail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -106,6 +111,6 @@ Me tornar um desenvolvedor Back-end Pleno especializado em aplicações escaláv
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=brunosoudias&label=Profile%20views&color=blueviolet&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=brunosoudias&label=Profile%20views&color=blueviolet&style=flat"/>
 
 </div>
