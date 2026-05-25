@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Bruno Dias</h1>
 
 <h3 align="center">
-  Desenvolvedor Back-end | Java • Spring Boot • NestJS
+  Desenvolvedor Full Stack | Java • Spring Boot • NestJS • NextJS
 </h3>
 
 
