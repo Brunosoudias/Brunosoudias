@@ -88,11 +88,11 @@ Me tornar um desenvolvedor Back-end Pleno especializado em aplicações escaláv
 
 <div align="center">
 
-<a href="https://www.linkedin.com/brunosoudias">
+<a href="https://www.linkedin.com/in/brunosoudias/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:seuemail@gmail.com">
+<a href="mailto:bruno.sousa.d@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
